@@ -31,15 +31,15 @@ const WhatWeOffer=()=>{
         <div className='text-center text-4xl font-bold pb-[20px]'>What We Offer</div>
         <ul className='max-w-screen-xl mx-auto flex block justify-between'>
           <li>
-            <img src="Images/lighting upgrades.jpg" alt="Lighting Upgrades" />
+            <img width={370} src="https://i.postimg.cc/bZ7M7mXY/lighting-upgrades.jpg" alt="Lighting Upgrades" />
             <Offer title='Lighting Upgrades' desc='Electrical panel maintenance, therefore, should be part of your regular routine.'/>
           </li>
           <li>
-            <img src="Images/electrical repairs.jpg" alt="Electrical Repairs" />
+            <img width={370} src="https://i.postimg.cc/NyRVBRY6/electrical-repairs.jpg" alt="Electrical Repairs" />
             <Offer title='Electrical Repairs' desc='Electrical repairs should always be handled by a professional electrician.'/>
           </li>
           <li>
-            <img src="Images/surge protection.jpg" alt="Surge Protection" />
+            <img width={370} src="https://i.postimg.cc/qNhSD95Z/surge-protection.jpg" alt="Surge Protection" />
             <Offer title='Surge Protection' desc='An electrical surge can happen for a number of reasons, including lightning strikes..'/>
           </li>
         </ul>

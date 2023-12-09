@@ -4,7 +4,7 @@ const Body =()=>{
     return(
     <div className='max-w-screen-xl mx-auto flex  '>
       <div>
-          <img width={580} height={397} src="Images/body.jpg" alt="" />
+          <img width={580} height={397} src="https://i.postimg.cc/Wh4QgD6V/body.jpg" alt="" />
       </div>
       <div className='pl-[50px] py-[50px] '>
         <div className='font-bold text-orange-500 text-xl'>
