@@ -1,0 +1,2 @@
+# Gọi API
+GET https://api.escuelajs.co/api/v1/products?offset=0&limit=4
